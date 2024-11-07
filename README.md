@@ -2,14 +2,19 @@
 
 ## Project Description
 
-This project explores the lake pollution problem through multi-objective optimization, utilizing two algorithms, **NSGA-II** and **MOEA/D**, to balance competing environmental and economic objectives. By implementing both deterministic and stochastic models and incorporating **Monte Carlo simulations**, the study accounts for real-world uncertainties, offering a robust framework for decision-making in environmental management.
+This project addresses the lake pollution problem through multi-objective optimization, using **NSGA-II** and **MOEA/D** algorithms to balance environmental and economic objectives. By implementing deterministic and stochastic models and incorporating **Monte Carlo simulations**, the study captures real-world uncertainties, providing a robust framework for decision-making in environmental management.
 
-The results demonstrate the advantages of NSGA-II for discovering diverse trade-offs across the Pareto front, while MOEA/D excels in finding optimal solutions for specific objectives. This project highlights the importance of uncertainty in environmental policy applications, providing valuable insights for sustainable management.
+The results demonstrate that NSGA-II offers diverse solutions across the Pareto front, while MOEA/D effectively finds optimal solutions for specific trade-offs. This project emphasizes the importance of accounting for uncertainty in environmental policy, yielding valuable insights for sustainable management strategies.
+
 
 ## Key Features
 - Multi-objective optimization using NSGA-II and MOEA/D algorithms
 - Deterministic and stochastic modeling for pollution control
-- Incorporation of Monte Carlo simulations to assess environmental uncertainty
+- Monte Carlo simulations to incorporate environmental uncertainty
+
+## Additional Results
+
+More detailed results and visualizations from the project are available in this [Google Drive folder](https://drive.google.com/drive/folders/1Pe7qBMNRMi3SklnAUBcUTaTxMePtLStb?usp=sharing).
 
 ## License
 
